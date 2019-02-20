@@ -40,7 +40,7 @@ class Discount extends Component {
           <Slide right>
             <div className="discount_description">
               <h3>Purchase tickets before the 20th of June</h3>
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit esse rerum distinctio reiciendis quibusdam libero ratione hic!</p>
+              <p>Be a part of the event as an early bird to enjoy our discounted rates. We hope to you make that decision.</p>
               <Button
                 text="Purchase Tickets"
                 bck="#ffa800"
